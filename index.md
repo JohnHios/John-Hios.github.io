@@ -22,9 +22,20 @@
 + Performed data cleaning, wrangling and exploratory data analysis to gain insights and provide visualisations on a comprehensive data set from NASA containing information on all known meteorite landings found up to year 2013. 
 + R was used to read data from a PostgreSQL database and carry out the analysis. 
 + Results were reviewed by the CodeClan instructors.
-<img src="images/meteorite_landings.jpg?raw=true"/>
+
+<img src="images/meteorite_landings.png?raw=true"/>
 
 ---
+[Palmer Penguins](/pdf/sample_presentation.pdf)
++ Performed exploratory data analysis, targeted data analysis via hypothesis testing, and generated summary statistics on penguin data collected at the Palmer Station, Antarctica LTER (member of the Long-Term Ecological Research Network). 
++ The analysis was carried out in R and results were reviewed by the CodeClan instructors
+
+<img src="images/in_scope_penguin_species_distribution.png?raw=true"/>
+<img src="images/penguin_bill_length_distribution.png?raw=true"/>
+
+
+---
+
 
 ### Category Name 2
 
