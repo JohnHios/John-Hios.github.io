@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### R/RShiny Projects 
 
 [New York Citi Bikes](/sample_page)
 + Used R for data cleaning/wrangling and exploratory data analysis on the NYC Bike share program data for 2018. 
@@ -14,12 +14,15 @@
 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Winter Crisis Data](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Meteorite Landings](http://example.com/)
++ Performed data cleaning, wrangling and exploratory data analysis to gain insights and provide visualisations on a comprehensive data set from NASA containing information on all known meteorite landings found up to year 2013. 
++ R was used to read data from a PostgreSQL database and carry out the analysis. 
++ Results were reviewed by the CodeClan instructors.
+<img src="images/meteorite_landings.jpg?raw=true"/>
 
 ---
 
