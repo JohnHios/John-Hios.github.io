@@ -37,7 +37,6 @@
 <img src="images/NHS_Borders_Cancer_Analysis-chunk-6-1.png?raw=true"/>
 <img src="images/NHS_Borders_Cancer_Analysis-chunk-7-1.png?raw=true"/>
 <img src="images/NHS_Borders_Cancer_Analysis-chunk-8-1.png?raw=true"/>
-<img src="images/NHS_Borders_Cancer_Analysis-chunk-9-1.png?raw=true"/>
 <img src="images/NHS_Borders_Cancer_Analysis-chunk-10-1.png?raw=true"/>
 <img src="images/NHS_Borders_Cancer_Analysis-chunk-11-1.png?raw=true"/>
 
