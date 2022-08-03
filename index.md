@@ -28,6 +28,21 @@
 
 
 ---
+[NHS Borders Cancer Analysis](/NHS_Borders_Cancer_Analysis.html)
++ Used R for data cleaning/wrangling and exploratory data analysis on the incidence of cancer in NHS Borders.
++ Summary statistics, time series patterns and visualisations were generated with an aim to gain insights and inform the planning for provision of cancer treatment services.
+<img src="images/NHS_Borders_Cancer_Analysis-chunk-3-1.png?raw=true"/>
+<img src="images/NHS_Borders_Cancer_Analysis-chunk-4-1.png?raw=true"/>
+<img src="images/NHS_Borders_Cancer_Analysis-chunk-5-1.png?raw=true"/>
+<img src="images/NHS_Borders_Cancer_Analysis-chunk-6-1.png?raw=true"/>
+<img src="images/NHS_Borders_Cancer_Analysis-chunk-7-1.png?raw=true"/>
+<img src="images/NHS_Borders_Cancer_Analysis-chunk-8-1.png?raw=true"/>
+<img src="images/NHS_Borders_Cancer_Analysis-chunk-9-1.png?raw=true"/>
+<img src="images/NHS_Borders_Cancer_Analysis-chunk-10-1.png?raw=true"/>
+<img src="images/NHS_Borders_Cancer_Analysis-chunk-11-1.png?raw=true"/>
+
+
+---
 [Winter Crisis Data](/pdf/sample_presentation.pdf)
 + Collaborated on the development of an R Shiny dashboard using data from Public Health Scotland (PHS) to assess the: 
     + impact of winter on the acute hospital sector
