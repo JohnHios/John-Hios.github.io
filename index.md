@@ -18,7 +18,7 @@
 
 
 ---
-[New York Citi Bikes](/sample_page)
+[New York Citi Bikes](/NYC_Bikes_John_Hios_PDA)
 + Used R for data cleaning/wrangling and exploratory data analysis on the NYC Bike share program data for 2018. 
 + Summary statistics, time series patterns and visualisations were generated with an aim to gain insights for increasing bike hires. 
 + The outcomes were reviewed by the CodeClan instructors in a 1-to-1 presentation.
@@ -66,7 +66,7 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
+- [Project 1 Title](/sample_page)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
