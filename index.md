@@ -13,7 +13,6 @@
 <img src="images/cross_country_gdp_phw_2020.png?raw=true"/>
 <img src="images/european_countries_by_gdp_share_2018.png?raw=true"/>
 <img src="images/output_per_hour_by_industry_2014-2016.png?raw=true"/>
-<img src="images/kmeans_productivity_vs_education_2018.png?raw=true"/>
 <img src="images/kmeans_productivity_vs_intellectual_property_2018.png?raw=true"/>
 
 
@@ -35,7 +34,6 @@
 <img src="images/NHS_Borders_Cancer_Analysis-chunk-4-1.png?raw=true"/>
 <img src="images/NHS_Borders_Cancer_Analysis-chunk-5-1.png?raw=true"/>
 <img src="images/NHS_Borders_Cancer_Analysis-chunk-6-1.png?raw=true"/>
-<img src="images/NHS_Borders_Cancer_Analysis-chunk-10-1.png?raw=true"/>
 <img src="images/NHS_Borders_Cancer_Analysis-chunk-11-1.png?raw=true"/>
 
 
@@ -74,11 +72,12 @@
 
 
 ---
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
