@@ -4,7 +4,7 @@
 
 ### R/RShiny Projects 
 
-[Productivity & Investment in the UK](/sample_page)
+[Productivity & Investment in the UK](/pdf/Deloitte_Investment_Project_JohnHios.pdf)
 + Used R for data wrangling and exploratory data analysis to visualize and identify significant patterns between productivity and investment for a range of countries, including the UK. 
 + The countries were grouped according to their productivity and investment in key assets and education via K-means clustering. 
 + Linear regression analysis was used to determine the relationship between UK productivity and investment in a historical context. 
