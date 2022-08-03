@@ -29,10 +29,14 @@
 
 ---
 [Winter Crisis Data](/pdf/sample_presentation.pdf)
-+ Collaborated on the development of an R Shiny dashboard using data from Public Health Scotland (PHS) to assess 
-    + the impact of winter on the acute hospital sector, and
-    + the effects of the recent pandemic from 2020 onwards. 
-+ The dashboard outlined the topic from a temporal, geographic and a demographic standpoint by evaluating hospital capacity, demographics, bed availability/occupancy and variation per admission type. 
++ Collaborated on the development of an R Shiny dashboard using data from Public Health Scotland (PHS) to assess the: 
+    + impact of winter on the acute hospital sector
+    + effects of the recent pandemic from 2020 onwards 
++ The dashboard outlined the topic from a temporal, geographic and a demographic standpoint by evaluating: 
+    + hospital capacity 
+    + demographics 
+    + bed availability/occupancy 
+    + variation per admission type 
 + The work was presented to an audience and reviewed by CodeClan instructors.
 <img src="images/Group_project_dashboard_week8_part2_of_5.png?raw=true"/>
 <img src="images/Group_project_dashboard_week8_part3_of_5.png?raw=true"/>
