@@ -9,10 +9,8 @@
 + Used Python for data wrangling and exploratory data analysis to visualize the yearly GDP of the G7 countries in terms of current US dollars from 1970 to 2021. 
 + The GDP data for a given year were plotted on a world map. The map depicts not only the GDP data, but also the countries which are missing from the GDP data entirely and the countries that are contained within the GDP data, but have no data for the given year.
 
-<p float="left">
-    <img src="images/line_chart_1970_2021.svg?raw=true" style="width:49%">
-    <img src="images/map_file_2021.svg?raw=true" style="width:49%">
-</p>
+<img src="images/line_chart_1970_2021.svg?raw=true">
+<img src="images/map_file_2021.svg?raw=true">
 
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
@@ -31,7 +29,6 @@
 + The work scope was presented to an audience and reviewed by CodeClan instructors.
  
 <img src="images/G7_cross_country_gdp_phw_marked.png?raw=true"/>
-<img src="images/cross_country_gdp_phw_2020.png?raw=true"/>
 <img src="images/european_countries_by_gdp_share_2018.png?raw=true"/>
 <img src="images/output_per_hour_by_industry_2014-2016.png?raw=true"/>
 <img src="images/kmeans_productivity_vs_intellectual_property_2018.png?raw=true"/>
@@ -86,7 +83,7 @@
 + Results were reviewed by the CodeClan instructors.
 
 <img src="images/meteorite_landings.png?raw=true"/>
-<img src="images/4_2_and_4_3_training_and_testing_data_sets_pda_part2_of_4_john_hios.png?raw=true"/>
+<img src="images/4_2_and_4_3_training_and_testing_data_sets_pda_part2_of_4_john_hios.png?raw=true" style="width:110%">
 
 ---
 [Palmer Penguins](/pdf/sample_presentation.pdf)
