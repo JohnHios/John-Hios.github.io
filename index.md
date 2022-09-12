@@ -2,6 +2,25 @@
 
 ---
 
+
+### Python Projects
+
+- [Gross Domestic Product (GDP) Data Analysis](/GDP_Data_Notebook.html)
++ Used Python for data wrangling and exploratory data analysis to visualize the yearly GDP of the G7 countries from 1970 to 2021. 
++ The GDP data for a given year were plotted on a world map. The map depicts not only the GDP data, but also the countries which are missing from the GDP data entirely and the countries that are contained within the GDP data, but have no data for the given year.
+
+<img src="images/line_chart_1970_2021.svg?raw=true"/>
+<img src="images/map_file_2021.svg?raw=true"/>
+
+
+- [Project 2 Title](http://example.com/)
+- [Project 3 Title](http://example.com/)
+- [Project 4 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)
+
+---
+
+
 ### R/RShiny Projects 
 
 [Productivity & Investment in the UK](/pdf/Deloitte_Investment_Project_JohnHios.pdf)
@@ -20,7 +39,7 @@
 ---
 [New York Citi Bikes](/NYC_Bikes_John_Hios_PDA.html)
 + Used R for data cleaning/wrangling and exploratory data analysis on the NYC Bike share program data for 2018. 
-+ Summary statistics, time series patterns and visualisations were generated with an aim to gain insights for increasing bike hires. 
++ Summary statistics, time-series patterns and visualisations were generated with an aim to gain insights for increasing bike hires. 
 + The outcomes were reviewed by the CodeClan instructors in a 1-to-1 presentation.
  
 <img src="images/2018_bike_hire_startpoints_geographical_spread.png?raw=true"/>
@@ -61,6 +80,7 @@
 ---
 [Meteorite Landings](http://example.com/)
 + Performed data cleaning, wrangling and exploratory data analysis to gain insights and provide visualisations on a comprehensive data set from NASA containing information on all known meteorite landings found up to year 2013. 
++ Created a decision tree model to predict whether a meteorite was seen falling or was discovered after its impact.
 + R was used to read data from a PostgreSQL database and carry out the analysis. 
 + Results were reviewed by the CodeClan instructors.
 
