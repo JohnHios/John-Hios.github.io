@@ -9,7 +9,7 @@
 + Used Python for data wrangling and exploratory data analysis to visualize the yearly GDP of the G7 countries in terms of current US dollars from 1970 to 2021. 
 + The GDP data for a given year were plotted on a world map. The map depicts not only the GDP data, but also the countries which are missing from the GDP data entirely and the countries that are contained within the GDP data, but have no data for the given year.
 
-<img src="images/line_chart_1970_2021.svg?raw=true"/>
+<img src="images/line_chart_1970_2021.svg?raw=true"/ src="images/map_file_2021.svg?raw=true"/>
 <img src="images/map_file_2021.svg?raw=true"/>
 
 
